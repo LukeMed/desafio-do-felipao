@@ -1,5 +1,6 @@
 let minhaFamilia = [
 
-["Luiz", "Laurita", "Lucas", "Levi"]
-
+    ["Luiz", "Laurita", "Lucas", "Levi"]
 ]
+ 
+console.log(minhaFamilia[0][1])
