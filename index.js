@@ -3,4 +3,4 @@ let minhaFamilia = [
     ["Luiz", "Laurita", "Lucas", "Levi"]
 ]
  
-console.log(minhaFamilia[0][1])
+console.log(minhaFamilia[0][3])
