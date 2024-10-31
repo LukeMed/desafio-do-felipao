@@ -1,4 +1,4 @@
 
-let listProduct = ["Açucar", "Café", "Suco"]
+let Alimentos = ["Açucar", "Café", "Suco", "Bolacha"]
 
-console.log(listProduct)
+console.log(Alimentos)
