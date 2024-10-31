@@ -1,6 +1,4 @@
-let minhaFamilia = [
 
-    ["Luiz", "Laurita", "Lucas", "Levi"]
-]
- 
-console.log(minhaFamilia[0][3])
+let listProduct = ["Açucar", "Café", "Suco"]
+
+console.log(listProduct)
