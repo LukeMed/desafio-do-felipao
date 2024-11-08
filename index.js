@@ -1,3 +1,5 @@
+
+let diaAtualizacao = "08/11/2024"
 let nomePokemon = ["Poochyena", "Zigzagoon", "Dragonite", "Hurmple"]
 let timePokemon = [
 
@@ -17,3 +19,5 @@ console.log("O pokemon " + timePokemon [2][0] + " do sexo " + timePokemon [2][1]
 console.log("O pokemon " + timePokemon [3][0] + " do sexo " + timePokemon [3][1] + " que está no nível " + timePokemon [3][2] + CadastroEfetuado)
 console.log("O pokemon " + timePokemon [4][0] + " do sexo " + timePokemon [4][1] + " que está no nível " + timePokemon [4][2] + CadastroEfetuado)
 console.log("O pokemon " + timePokemon [5][0] + " do sexo " + timePokemon [5][1] + " que está no nível " + timePokemon [5][2] + CadastroEfetuado)
+
+console.log(diaAtualizacao)
