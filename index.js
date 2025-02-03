@@ -1,5 +1,5 @@
 
-let diaAtualizacao = "10/12/2024 - terça-feira"
+let diaAtualizacao = "03/02/2025 - segunda-feira"
 let nomePokemon = ["Poochyena", "Zigzagoon", "Dragonite", "Hurmple"]
 let timePokemon = [
 
